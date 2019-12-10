@@ -21,6 +21,7 @@ This repo should at least support the following functionality:
 There are however some features I'd like to add if I have enough time:
 
 - [ ] GUI for easier usage
+- [ ] Preview of saved time
 - [ ] work without temporary storage (or possibly in a ram disk)
 - [ ] parallelize the video creation process
 - [ ] live stream of video at faster speed
